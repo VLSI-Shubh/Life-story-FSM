@@ -15,7 +15,7 @@ This is a **Moore FSM** where:
 ---
 ## 📊 Visual Representation
 
-![FSM Diagram](https://github.com/VLSI-Shubh/Life-story-FSM/blob/36047491e4b6633c4ea63f913c88de8671152b1a/images/life_fsm.png)
+![FSM Diagram](https://github.com/VLSI-Shubh/Life-story-FSM/blob/aee25a6d6b76526bcdf6d4c296eeb6bb5c8b5dca/images/life_fsm.png)
 
 ---
 ## 🛠️ Inputs and Outputs
